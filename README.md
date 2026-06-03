@@ -2,7 +2,7 @@
 
 **Full Stack Developer & AI/ML Engineer** based in Raipur, India.
 
-I build things that sit at the intersection of AI and real-world software — from multilingual document parsers and ML prediction models to full-stack apps with chatbots and geolocation features. Currently working as a Junior AI/ML Developer at i-Connectresources International Pvt ltd.
+I build things that sit at the intersection of AI and real-world software from multilingual document parsers and ML prediction models to full-stack apps with chatbots and geolocation features. Currently working as a Junior AI/ML Developer at i-Connectresources International Pvt ltd.
 
 ---
 
@@ -38,7 +38,7 @@ I build things that sit at the intersection of AI and real-world software — fr
 ## 🚀 Featured Projects
 
 ### 🌍 [Multilingual Document Parser](https://github.com/prakritipatkar/multilingual-document-parser)
-AI pipeline for multilingual document understanding — PaddleOCR + YOLOv8 + NLLB-200 + Gemini/Claude. Supports text extraction, figure detection, translation, and semantic Q&A. **80% extraction accuracy across 9 languages.**
+AI pipeline for multilingual document understanding : PaddleOCR + YOLOv8 + NLLB-200 + Gemini/Claude. Supports text extraction, figure detection, translation, and semantic Q&A. **80% extraction accuracy across 9 languages.**
 
 ### 🏥 [CareConnect](https://github.com/prakritipatkar/CareConnect)
 Full-stack doctor appointment booking system with Firebase auth, AI chatbot, Nodemailer email confirmations, and separate patient/doctor dashboards. Built with React 18 + Node.js + Express.
